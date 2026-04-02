@@ -67,7 +67,7 @@
 		"oauth": "0.9.15",
 		"object-sizeof": "1.5.3",
 		"opn": "5.4.0",
-		"pubnub": "4.37.0",
+		"pubnub": "10.2.7",
 		"semver": "7.3.2",
 		"socketcluster-client": "16.0.1",
 		"stacktrace-parser": "0.1.10",
