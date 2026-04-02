@@ -61,7 +61,7 @@
 		"glob-promise": "4.2.1",
 		"graphql-request": "1.8.2",
 		"ignore": "3.3.10",
-		"lodash-es": "4.17.15",
+		"lodash-es": "4.18.1",
 		"lz-string": "1.4.4",
 		"node-fetch": "2.6.7",
 		"oauth": "0.9.15",
