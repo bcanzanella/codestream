@@ -73,7 +73,7 @@
 		"stacktrace-parser": "0.1.10",
 		"string-similarity": "3.0.0",
 		"tiny-async-pool": "1.2.0",
-		"tmp": "0.1.0",
+		"tmp": "0.2.6",
 		"uuid": "3.3.2",
 		"vscode-languageserver": "5.2.1",
 		"vscode-uri": "3.0.2",
